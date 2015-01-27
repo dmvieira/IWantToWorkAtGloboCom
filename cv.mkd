@@ -1,15 +1,199 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Vagas pretendidas em ordem de preferência:
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Tsuru: Plataforma como serviço
+
+* Plataforma de Interatividades
+
+* Banco de Dados
+
+Gostei muito do projeto Tsuru, mas os outros dois parecem bem legais de trabalhar também. Acredito que posso contribuir com a equipe de qualquer um dos 3 projetos e adquirir bastante conhecimento dos integrantes.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Informações Pessoais e de Contato
+===================================
+
+* **Telefone:** +55 (21) 98656-0745 ou +55 (21) 2424-4157 
+* **Cidade:** Rio de Janeiro-RJ
+* **E-mail:** diogo.mvieira@gmail.com
+* **Estado civil:** Solteiro
+* **Site:** http://diogomunaro.com
+* **LinkedIn:** http://www.linkedin.com/in/dmvieira
+* **Nascimento:** 12/08/1989
+* **Lattes:** http://lattes.cnpq.br/2139739079442842
+
+Áreas de Atuação
+================
+
+Desenvolvimento de mecanismos de recomendação, de aplicações *WEB*,
+Aprendizado de Máquina, Mineração de Dados e *Business Intelligence*.
+
+Objetivos
+=========
+
+Atuar, preferencialmente, nas áreas citadas ou em áreas correlacionadas,
+visando satisfação pessoal e a satisfação do contratante.
+
+Educação
+========
+
+[**Universidade Federal do Rio de Janeiro**](http://www.ufrj.br/), Rio
+de Janeiro-RJ
+
+Mestrado em Informática (PPGI), [Modelos e Arquiteturas para Sistemas
+Inteligentes](http://ppgi.ufrj.br/index.php?option=com_content&task=view&id=748&Itemid=39)\
+**Defesa em Junho de 2014**
+
+*Área:* Incorporação de Argumentação em Sistemas de Recomendação;
+
+*Descrição:* Utilização de Algoritmos Genéticos para determinar a melhor
+combinação entre disseminação e recomendação de conteúdo, melhorando a
+qualidade de experiência dos serviços utilizando Sistemas de
+Recomendação.
+
+*Orientador:* [Profª. Drª. Carla Amor Divino Moreira
+Delgado](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4766117H9).
+
+*Orientador:* [Prof. PhD. Daniel Sadoc
+Menasche](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=P337002).
+
+Graduação em Biofísica - Bioinformática, [Laboratório de Farmacologia
+Molecular](http://www.biof.ufrj.br/content/graduac_biof_campus_cid_univers)\
+**Defesa em Fevereiro de 2012**
+
+*Área:* Neurofarmacologia Molecular de Receptores Ionotrópicos;
+
+*Descrição:* Análise estrutural através de bioinformática e experimentos
+laboratoriais de compostos derivados da pimenta vermelha.
+
+*Orientador:* [Profª. Drª. Marília Zaluar Passos
+Guimarães](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=B859124).
+
+Experiência Profissional
+========================
+
+[**Empresa Kappius/MedK**](http://kappius.com.br/), Rio de Janeiro-RJ
+
+*Gerente de TI e Consultor em Business Intelligence* **Agosto 2012 até
+Agora**
+
+Coordenação de equipe no desenvolvimento de sistemas de BI.
+
+Análise e filtragem de grande quantidade de dados utilizando Mineração
+de Dados.
+
+Programador Python, PHP, MySQL e Javascript.
+
+Análise de dados e relatórios com Pentaho.
+
+Gerenciamento de Desenvolvimento com Scrum e CI.
+
+Construção e Manutenção de estrutura de deploy similar ao Amazon EB.
+
+Gerenciamento de servidor Linux.
+
+[**StartUp Labsynapse**](http://labsynapse.com/), Rio de Janeiro-RJ
+
+*Gestor de TI e Co-Fundador* **Janeiro 2011 até Agora**
+
+Gerenciamento de servidor Linux.
+
+Gerenciamento de desenvolvimento do portal Labsynapse.
+
+Gerenciamento de desenvolvimento do portal Catalist
+
+Utilização de Mineração de Dados de várias fontes diferentes de produtos
+e editais.
+
+Análise textual com Apache Tika e NLTK no Catalist.
+
+Gerenciamento de Sistema de Recomendação básico na Labsynapse.
+
+Gerenciamento de Desenvolvimento com Scrum e CI.
+
+Programador Python, PHP, Perl, Postgres, MySQL, MongoDB e Javascript.
+
+[**Empresa Cybernet**](http://cybernetrj.com.br/), Rio de Janeiro-RJ
+
+*Gestor de TI e Gerente de Servidor* **Agosto 2009 até Fevereiro 2012**
+
+Gerenciamento de servidor compartilhado.
+
+Gerenciamento de desenvolvimento de *websites* pela empresa.
+
+Programador PHP, Perl, MySQL, PostgreSQL e Javascript.
+
+[**Instituto de Bioquímica Médica da
+UFRJ**](http://www.bioqmed.ufrj.br), Rio de Janeiro-RJ
+
+*Bioinformata e Programador WEB* **Março 2008 até Janeiro 2012**
+
+Uso de algoritmos de classificação em sequências de DNA de bactérias e
+arqueas.
+
+Aplicação de algoritmos de clusterização com Mineração de Dados usando
+ARB.
+
+Programador em PHP, MySQL e JavaScript.
+
+Monitor de Bioquímica.
+
+**Centro de Educação Pâmella Ferreira**, Rio de Janeiro-RJ
+
+*Professor de Matemática* **Janeiro 2007 até Dezembro 2007**
+
+Professor de matemática para turma preparatória de concurso público.
+
+[**Museu Nacional da UFRJ**](http://www.museunacional.ufrj.br/), Rio de
+Janeiro-RJ
+
+*Estagiário* **Fevereiro 2005 até Dezembro 2005**
+
+Análises ósseas de populações Sambaquis.
+
+Competências
+============
+
+**Línguas**
+
+Português fluente.
+
+Inglês fluente para leitura, avançado para conversação e escrita.
+
+**Programação**
+
+Avançada: Python, PHP, CSS, HTML, Javascript;
+
+Intermediária: Pentaho, Matlab, Scilab, LATEX, ShellScript;
+
+Básica: Java, Ruby, C\#, Pascal, Perl.
+
+CMS: WordPress, Prestashop e Collabtive.
+
+FrameWorks: [web2py](http://web2py.com/),
+[QuarkPHP](http://quarkphp.com/).
+
+Servidores WEB: Apache, Nginx.
+
+**Tecnologia da Informação**
+
+Avançada: Redes (Camada de aplicação), Algoritmos Genéticos, Sistemas de
+Recomendação, Mineração de dados.
+
+Intermediária: Redes (Camada de transporte), Lógica Nebulosa,
+Classificadores, Algoritmos de Clusterização.
+
+**Sistemas Operacionais**
+
+Avançada: Linux (Debian, Ubuntu, Mint, Fedora, CentOS).
+
+Intermediária: Microsoft Windows
+
+Básica: MacOS, BSD, Android.
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
