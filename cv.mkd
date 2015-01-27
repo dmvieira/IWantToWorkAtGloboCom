@@ -29,7 +29,7 @@ Informações Pessoais e de Contato
 Áreas de Atuação
 ================
 
-Desenvolvimento de mecanismos de recomendação, de aplicações *WEB*,
+Desenvolvimento de mecanismos de recomendação, de sistemas *WEB*,
 Aprendizado de Máquina, Mineração de Dados e *Business Intelligence*.
 
 Objetivos
@@ -83,24 +83,26 @@ Agora**
 
 Coordenação de equipe no desenvolvimento de sistemas de BI.
 
-Análise e filtragem de grande quantidade de dados utilizando Mineração
+Análise e filtragem de grande quantidade de dados médicos utilizando Mineração
 de Dados.
 
-Programador Python, PHP, MySQL e Javascript.
+Programador Python, PHP, MySQL, Javascript e ShellScript.
 
 Análise de dados e relatórios com Pentaho.
 
-Gerenciamento de Desenvolvimento com Scrum e CI.
+Gerenciamento de Desenvolvimento com Scrum e CI (Continuos Integration).
 
-Construção e Manutenção de estrutura de deploy similar ao Amazon EB.
+Gerenciamento de Serviços na AWS (EC2, S3, Cache (Redis), Route53, EB).
 
-Gerenciamento de servidor Linux.
+Construção e Manutenção de estrutura de deploy local similar ao AWS Amazon EB.
+
+Gerenciamento de servidores Linux.
 
 [**StartUp Labsynapse**](http://labsynapse.com/), Rio de Janeiro-RJ
 
 *Gestor de TI e Co-Fundador* **Janeiro 2011 até Agora**
 
-Gerenciamento de servidor Linux.
+Gerenciamento de servidores Linux.
 
 Gerenciamento de desenvolvimento do portal Labsynapse.
 
@@ -113,7 +115,9 @@ Análise textual com Apache Tika e NLTK no Catalist.
 
 Gerenciamento de Sistema de Recomendação básico na Labsynapse.
 
-Gerenciamento de Desenvolvimento com Scrum e CI.
+Gerenciamento de Desenvolvimento com Scrum e CI (Continuos Integration).
+
+Gerenciamento de Serviços na AWS (EC2, S3, Cache (Redis), Route53, EB).
 
 Programador Python, PHP, Perl, Postgres, MySQL, MongoDB e Javascript.
 
@@ -170,22 +174,25 @@ Avançada: Python, PHP, CSS, HTML, Javascript;
 
 Intermediária: Pentaho, Matlab, Scilab, LATEX, ShellScript;
 
-Básica: Java, Ruby, C\#, Pascal, Perl.
+Básica: Java, Ruby, C\#, Pascal, Perl, Chef.
 
 CMS: WordPress, Prestashop e Collabtive.
 
 FrameWorks: [web2py](http://web2py.com/),
+[Pelican](http://docs.getpelican.com/en/3.5.0/),
 [QuarkPHP](http://quarkphp.com/).
 
 Servidores WEB: Apache, Nginx.
 
 **Tecnologia da Informação**
 
-Avançada: Redes (Camada de aplicação), Algoritmos Genéticos, Sistemas de
+Avançada: AWS (Amazon), Redes (Camada de aplicação), Algoritmos Genéticos, Sistemas de
 Recomendação, Mineração de dados.
 
 Intermediária: Redes (Camada de transporte), Lógica Nebulosa,
 Classificadores, Algoritmos de Clusterização.
+
+Básico: SPARQL, Web Semântica
 
 **Sistemas Operacionais**
 
