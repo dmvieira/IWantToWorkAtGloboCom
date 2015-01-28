@@ -108,14 +108,14 @@ Gerenciamento de servidores Linux.
 
 Gerenciamento de servidores Linux.
 
-Gerenciamento de desenvolvimento do portal Labsynapse.
+Gerenciamento de desenvolvimento do portal Labsynapse: um portal de pregão para produtos laboratoriais (http://labsynapse.com)
 
-Gerenciamento de desenvolvimento do portal Catalist
+Gerenciamento de desenvolvimento do portal Catagrant: um agregador de financiamentos científicos (http://catagrant.com)
 
 Utilização de Mineração de Dados de várias fontes diferentes de produtos
 e editais.
 
-Análise textual com Apache Tika e NLTK no Catalist.
+Análise textual com Apache Tika e NLTK no Catagrant.
 
 Gerenciamento de Sistema de Recomendação básico na Labsynapse.
 
