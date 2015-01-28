@@ -1,7 +1,8 @@
 Vaga
 ====
 
-Vagas pretendidas em ordem de preferência:
+Vagas pretendidas em ordem de preferência
+-----------------------------------------
 
 * Tsuru: Plataforma como serviço
 
@@ -15,7 +16,7 @@ CV
 ==
 
 Informações Pessoais e de Contato
-===================================
+---------------------------------
 
 * **Telefone:** +55 (21) 98656-0745 ou +55 (21) 2424-4157 
 * **Cidade:** Rio de Janeiro-RJ
@@ -27,26 +28,26 @@ Informações Pessoais e de Contato
 * **Lattes:** http://lattes.cnpq.br/2139739079442842
 
 Áreas de Atuação
-================
+----------------
 
-Desenvolvimento de mecanismos de recomendação, de sistemas *WEB*,
+Desenvolvimento de Mecanismos de Recomendação, de Sistemas *WEB*, CI, 
 Aprendizado de Máquina, Mineração de Dados e *Business Intelligence*.
 
 Objetivos
-=========
+---------
 
 Atuar, preferencialmente, nas áreas citadas ou em áreas correlacionadas,
 visando satisfação pessoal e a satisfação do contratante.
 
 Educação
-========
+--------
 
 [**Universidade Federal do Rio de Janeiro**](http://www.ufrj.br/), Rio
 de Janeiro-RJ
 
 Mestrado em Informática (PPGI), [Modelos e Arquiteturas para Sistemas
-Inteligentes](http://ppgi.ufrj.br/index.php?option=com_content&task=view&id=748&Itemid=39)\
-**Defesa em Junho de 2014**
+Inteligentes](http://ppgi.ufrj.br/index.php?option=com_content&task=view&id=748&Itemid=39)
+ **Defesa em Junho de 2014** (com 3 artigos, sendo 1 internacional em revisão)
 
 *Área:* Incorporação de Argumentação em Sistemas de Recomendação;
 
@@ -62,8 +63,8 @@ Delgado](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4766117H9).
 Menasche](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=P337002).
 
 Graduação em Biofísica - Bioinformática, [Laboratório de Farmacologia
-Molecular](http://www.biof.ufrj.br/content/graduac_biof_campus_cid_univers)\
-**Defesa em Fevereiro de 2012**
+Molecular](http://www.biof.ufrj.br/content/graduac_biof_campus_cid_univers) 
+**Defesa em Fevereiro de 2012** (com 1 artigo)
 
 *Área:* Neurofarmacologia Molecular de Receptores Ionotrópicos;
 
@@ -74,16 +75,17 @@ laboratoriais de compostos derivados da pimenta vermelha.
 Guimarães](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=B859124).
 
 Experiência Profissional
-========================
+------------------------
 
-[**Empresa Kappius/MedK**](http://kappius.com.br/), Rio de Janeiro-RJ
+### [**Empresa Kappius/MedK**](http://kappius.com.br/), Rio de Janeiro-RJ
 
-*Gerente de TI e Consultor em Business Intelligence* **Agosto 2012 até
-Agora**
+*Gerente de TI e Consultor em Business Intelligence* **Agosto 2012 até Agora**
 
-Coordenação de equipe no desenvolvimento de sistemas de BI.
+#### Atividades Exercidas
 
-Análise e filtragem de grande quantidade de dados médicos utilizando Mineração
+Coordenação de equipe no desenvolvimento de sistemas de BI e no desenvolvimento e integração de 6 sistemas na empresa.
+
+Análise e filtragem de grande quantidade de dados sensíveis utilizando Mineração
 de Dados.
 
 Programador Python, PHP, MySQL, Javascript e ShellScript.
@@ -98,9 +100,11 @@ Construção e Manutenção de estrutura de deploy local similar ao AWS Amazon E
 
 Gerenciamento de servidores Linux.
 
-[**StartUp Labsynapse**](http://labsynapse.com/), Rio de Janeiro-RJ
+### [**StartUp Labsynapse**](http://labsynapse.com/), Rio de Janeiro-RJ
 
 *Gestor de TI e Co-Fundador* **Janeiro 2011 até Agora**
+
+#### Atividades Exercidas
 
 Gerenciamento de servidores Linux.
 
@@ -121,9 +125,11 @@ Gerenciamento de Serviços na AWS (EC2, S3, Cache (Redis), Route53, EB).
 
 Programador Python, PHP, Perl, Postgres, MySQL, MongoDB e Javascript.
 
-[**Empresa Cybernet**](http://cybernetrj.com.br/), Rio de Janeiro-RJ
+### [**Empresa Cybernet**](http://cybernetrj.com.br/), Rio de Janeiro-RJ
 
 *Gestor de TI e Gerente de Servidor* **Agosto 2009 até Fevereiro 2012**
+
+#### Atividades Exercidas
 
 Gerenciamento de servidor compartilhado.
 
@@ -131,10 +137,11 @@ Gerenciamento de desenvolvimento de *websites* pela empresa.
 
 Programador PHP, Perl, MySQL, PostgreSQL e Javascript.
 
-[**Instituto de Bioquímica Médica da
-UFRJ**](http://www.bioqmed.ufrj.br), Rio de Janeiro-RJ
+### [**Instituto de Bioquímica Médica da UFRJ**](http://www.bioqmed.ufrj.br), Rio de Janeiro-RJ
 
 *Bioinformata e Programador WEB* **Março 2008 até Janeiro 2012**
+
+#### Atividades Exercidas
 
 Uso de algoritmos de classificação em sequências de DNA de bactérias e
 arqueas.
@@ -146,16 +153,19 @@ Programador em PHP, MySQL e JavaScript.
 
 Monitor de Bioquímica.
 
-**Centro de Educação Pâmella Ferreira**, Rio de Janeiro-RJ
+### **Centro de Educação Pâmella Ferreira**, Rio de Janeiro-RJ
 
 *Professor de Matemática* **Janeiro 2007 até Dezembro 2007**
 
+#### Atividades Exercidas
+
 Professor de matemática para turma preparatória de concurso público.
 
-[**Museu Nacional da UFRJ**](http://www.museunacional.ufrj.br/), Rio de
-Janeiro-RJ
+### [**Museu Nacional da UFRJ**](http://www.museunacional.ufrj.br/), Rio de Janeiro-RJ
 
 *Estagiário* **Fevereiro 2005 até Dezembro 2005**
+
+#### Atividades Exercidas
 
 Análises ósseas de populações Sambaquis.
 
@@ -201,10 +211,3 @@ Avançada: Linux (Debian, Ubuntu, Mint, Fedora, CentOS).
 Intermediária: Microsoft Windows
 
 Básica: MacOS, BSD, Android.
-
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
