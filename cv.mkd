@@ -98,6 +98,8 @@ Gerenciamento de Desenvolvimento com Scrum e CI (Continuos Integration).
 
 Gerenciamento de Serviços na AWS (EC2, S3, Cache (Redis), Route53, EB).
 
+Gerenciamento de Google Apps.
+
 Construção e Manutenção de estrutura de deploy local similar ao AWS Amazon EB.
 
 Gerenciamento de servidores Linux.
@@ -124,6 +126,8 @@ Gerenciamento de Sistema de Recomendação básico na Labsynapse.
 Gerenciamento de Desenvolvimento com Scrum e CI (Continuos Integration).
 
 Gerenciamento de Serviços na AWS (EC2, S3, Cache (Redis), Route53, EB).
+
+Gerenciamento de Google Apps.
 
 Programador Python, PHP, Perl, Postgres, MySQL, MongoDB e Javascript.
 
