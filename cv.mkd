@@ -92,7 +92,7 @@ Programador Python, PHP, MySQL, Javascript e ShellScript.
 
 Análise de dados e relatórios com Pentaho.
 
-Gerenciamento BPM de processos com Bonita BPM.
+Gerenciamento de processos usando BPMN com Bonita BPM.
 
 Gerenciamento de Desenvolvimento com Scrum e CI (Continuos Integration).
 
