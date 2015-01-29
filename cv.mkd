@@ -92,6 +92,8 @@ Programador Python, PHP, MySQL, Javascript e ShellScript.
 
 Análise de dados e relatórios com Pentaho.
 
+Gerenciamento BPM de processos com Bonita BPM.
+
 Gerenciamento de Desenvolvimento com Scrum e CI (Continuos Integration).
 
 Gerenciamento de Serviços na AWS (EC2, S3, Cache (Redis), Route53, EB).
@@ -182,7 +184,7 @@ Inglês fluente para leitura, avançado para conversação e escrita.
 
 Avançada: Python, PHP, CSS, HTML, Javascript;
 
-Intermediária: Pentaho, Matlab, Scilab, LATEX, ShellScript;
+Intermediária: Pentaho, Bonita BPM, Matlab, Scilab, LATEX, ShellScript;
 
 Básica: Java, Ruby, C\#, Pascal, Perl, Chef.
 
